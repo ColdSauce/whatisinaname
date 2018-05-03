@@ -35,7 +35,7 @@ class App extends Component {
     return (
       <div className="App">
         <div>
-          <h1> My Name is My Name </h1>
+          <h1> What is in a name? </h1>
           <p> Let the AI Gods decide what your name should be based on how you look! </p>
         </div>
         <Dropzone
