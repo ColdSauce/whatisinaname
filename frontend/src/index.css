@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto';
+}
+
+h1 {
+  color: #ecf0f1;
+  margin-bottom: 60px;
+  margin-top: 40px;
+}
+
+h2 {
+  color: #ecf0f1;
+  margin-top: 170px;
+}
+
+p {
+  color: #ecf0f1;
+  margin-bottom: 70px;
+}
+
+.dropZone {
+  background-color: #ecf0f1;
+  padding: 100px;
+  width: 20%;
+  height: auto;
+  margin: 40px auto 0;
+}
+.dropZone:hover {
+  cursor: pointer;
+}
+
+.dropZoneActive {
+  background-color: #bdc3c7;
+  padding: 100px;
+}
+
+
+.dropText > a {
+  all: unset;
+}
